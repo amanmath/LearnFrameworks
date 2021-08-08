@@ -17,7 +17,7 @@ public class MovieController {
     @Autowired
     private MovieRepo repo;
 
-    // testing out find all with mongodb
+    //testing out find all with mongodb
     @GetMapping(path = "")
     public List<Movie> findAll(){
         return repo.findAll();
