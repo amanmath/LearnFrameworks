@@ -4,7 +4,7 @@ A simple application that uses mongodb, java spring boot, swagger ui, rest api, 
 The URL to view swagger UI is: ttp://localhost:8080/swagger-ui.html
 
 The Database structure is: 
-
+```json
   {
     _id: ObjectId("61101c6bbf5db1e07cb7244d"),
     title: 'The Departed',
@@ -23,6 +23,7 @@ The Database structure is:
     ],
     boxoffice: 292
   }
+```
 
 I want to document how to do CRUD operations in mongodb. This portion of the readme file will be mostly for me, but I also want to keep updating this. 
 - TO enter the shell use: mongoose
