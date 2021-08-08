@@ -1,4 +1,4 @@
-# LearnFrameworks
+# Learning Mongodb
 A simple application that uses mongodb, java spring boot, swagger ui, rest api, and jUnit with mockito. 
 
 The URL to view swagger UI is: ttp://localhost:8080/swagger-ui.html
